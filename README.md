@@ -1,3 +1,3 @@
-CSC4110-assignment1 /n
-Jordan Grewe 
-GP0569
+# CSC4110-assignment1 
+# Jordan Grewe 
+# GP0569
